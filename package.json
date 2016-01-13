@@ -5,14 +5,13 @@
   "author": "Damien Hureau",
   "license": "ISC",
   "bugs": {
-    "url": "http://github.com/request/request/issues"
+    "url": "http://github.com/Houlbek/Nest-cli/issues"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "main": "src/nest.js",
+  "main": "lib/nest.js",
   "dependencies": {
-    "request": "^2.67.0",
-    "moment": "^2.11.1"
+    "request": "^2.67.0"
   }
 }
