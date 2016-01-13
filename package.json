@@ -1,12 +1,28 @@
 {
-  "name": "nest",
+  "name": "nest-cloud-api",
   "version": "0.0.1",
   "description": "",
-  "author": "Damien Hureau",
+  "contributors": [
+    "Damien Hureau <>",
+    "Antoine Leveugle <antoine.leveugle@gmail.com>"
+  ],
   "license": "ISC",
   "bugs": {
-    "url": "http://github.com/Houlbek/Nest-cli/issues"
+    "url": "http://github.com/denouche/node-nest-cloud-api/issues"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/denouche/node-nest-cloud-api.git"
+  },
+  "keywords": [
+    "nest",
+    "api",
+    "rest",
+    "cloud",
+    "thermostat",
+    "cameras",
+    "protect"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
